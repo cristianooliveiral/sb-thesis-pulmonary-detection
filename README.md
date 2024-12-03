@@ -10,9 +10,10 @@ Lung diseases remain a major global health concern, with early detection being c
 2. Implement and compare the performance of state-of-the-art deep learning models.
 
 ## Repository Structure
-
+🫁
 
 ## Key Components
+
 ### 1. Data
 The datasets used for this project include:
 - **[NIH Chest X-ray Dataset](https://www.kaggle.com/nih-chest-xrays)**: A large dataset of chest X-ray images.
@@ -30,6 +31,8 @@ Key performance metrics include:
 - Specificity
 
 ## Installation
+🫁
+
 ### Prerequisites
 - Python >= 3.8
 - TensorFlow >= 2.5 or PyTorch >= 1.8
@@ -45,6 +48,7 @@ Key performance metrics include:
     ``` 
 
 ## Usage
+🫁
 
 ## Acknowledgments
 This project is guided by Prof. Igor Valente and inspired by recent advancements in deep learning for medical imaging.
