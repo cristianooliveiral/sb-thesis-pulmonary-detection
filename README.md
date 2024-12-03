@@ -44,29 +44,27 @@ Key performance metrics include:
 1. Clone this repository:
    ```bash
    git clone https://github.com/yourusername/sb-thesis-pulmonary-detection.git
+   ``` 
 2. Install dependencies:
     ```bash
-    pip3 install -r requirements.txt
+    pip install -r requirements.txt
     ``` 
 
 --- 
 
 ## Usage
 ### 1. Data Preprocessing:
-    Run the preprocessing script to prepare raw images:
     ```bash
     python src/data/preprocess.py
-    ````
+    ```
 ### 2. Model Training:
-    Train a model using the default configuration:
     ```bash
     python src/models/train.py --config configs/default.yaml
-    ````
+    ```
 ### 3. Evaluation:
-    Evaluate the model on a test dataset: 
     ```bash
     python src/models/evaluate.py --model models/best_model.pth
-    ````
+    ```
 
 --- 
 
